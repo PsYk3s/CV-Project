@@ -1,6 +1,7 @@
 import './App.css'
 import Intro from './Intro'
-import { WorkForm, WorkList } from './Working.jsx'
+import WorkForm from './WorkForm.jsx'
+import WorkList from './WorkList.jsx'
 import { Schooling, SchoolingForm } from './Schooling.jsx'
 import { useState } from 'react'
 
